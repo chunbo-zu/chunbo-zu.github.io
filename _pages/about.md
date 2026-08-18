@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am **Chunbo Zu (祖春波)**, an undergraduate student at **Harbin Institute of Technology**.
+Hi! I am **Chunbo Zu (祖春波)**, a postgraduate student at **Tsinghua University**.
 
 I am interested in **Artificial Intelligence** and **Large Language Models**.
 
@@ -24,5 +24,5 @@ I am interested in **Artificial Intelligence** and **Large Language Models**.
 # 📖 Educations
 
 
-- **2022.09 - now**: Undergraduate, Faculty of Computing, Harbin Institute of Technology
-
+- **2022.09 - 2026.06**: Undergraduate, Faculty of Computing, Harbin Institute of Technology
+- **2026.08 - now**: Postgraduate, SIGS, Tsinghua University, Shenzhen
